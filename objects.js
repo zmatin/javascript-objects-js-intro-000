@@ -1,3 +1,15 @@
+
+var playlist = {
+  avici : 'dont wake me up'
+}
+
+function updatePlaylist(playlist, artistName, songTitle){
+  playlist
+  return 
+  
+} 
+
+
 var playlist = {
   artist: "Avici",
   
